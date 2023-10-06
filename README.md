@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://template.canva.com/EAENvk2CS4M/1/0/1600w-iHvm-YmdTcQ.jpg" alt="Web Development Banner" width="100%" height="auto">
+  <img src="https://media.licdn.com/dms/image/C5616AQGCLu80mRabRQ/profile-displaybackgroundimage-shrink_200_800/0/1619283918380?e=2147483647&v=beta&t=nibz2OlA49eragHlWut4FV03DFv1He6c2As4t3H4qQ8" alt="Web Development Banner" width="100%" height="auto">
 </div>
 
 <h1 align="center">🚀 Ayush Anand</h1>
