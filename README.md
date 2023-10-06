@@ -18,7 +18,8 @@
 
 ## 🌟 About Me
 
-Hello! 👋 I'm Ayush Anand, a Pre-Final Year Information Science Engineering student pursuing B.E. I'm passionate about Full Stack Web Development and enjoy working with the MERN (MongoDB, Express.js, React, Node.js) stack. Besides, I'm proficient in C, C++, Java, and JavaScript.
+Hello! 👋 I'm Ayush Anand, a Pre-Final Year Information Science Engineering student pursuing B.E. I'm passionate about Full Stack Web Development and enjoy working with the MERN (MongoDB, Express.js, React, Node.js) stack. Besides, I'm proficient in C, C++, Java, and JavaScript.<br>I'm also an enthusiastic open-source contributor and love to give back to the community. I find joy in collaborating on exciting projects and making a positive impact.
+
 
 ## 🔧 Skills
 
