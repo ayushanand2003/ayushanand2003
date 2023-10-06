@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/91953396?s=400&u=d076f0d3cfbe0b2bb6a0af2d5daf40a3ca7022e9&v=4" alt="Ayush Anand" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/91953396?s=400&u=d076f0d3cfbe0b2bb6a0af2d5daf40a3ca7022e9&v=4" alt="Ayush Anand" width="200" height="200" style="border-radius: 50%;">
 </div>
+
+<h1 align="center">🚀 Ayush Anand</h1>
+
+<!-- ... Rest of your content ... -->
+
 
 <h1 align="center">🚀 Ayush Anand</h1>
 
