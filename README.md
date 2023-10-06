@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" alt="Web Development Banner" width="100%" height="auto">
+  <img src="https://template.canva.com/EAENvk2CS4M/1/0/1600w-iHvm-YmdTcQ.jpg" alt="Web Development Banner" width="100%" height="auto">
 </div>
 
 <h1 align="center">🚀 Ayush Anand</h1>
