@@ -17,7 +17,7 @@ Hello! 👋 I'm Ayush Anand, a Pre-Final Year Information Science Engineering st
 ### Skills
 
 - Full Stack Web Development (MERN Stack)
-- C, C++, Java, JavaScript
+- C, C++, Java, JavaScript``
 
 ## Projects
 
