@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://via.placeholder.com/200" alt="Web Development" width="200" height="200" style="border-radius: 50%;">
+</div>
 
 <h1 align="center">🚀 Ayush Anand</h1>
 
