@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/86/c2/e3/86c2e316bf20a1d4efbd91f4cf8d0ffa.png" alt="Web Development" width="700" height="200" style="border-radius: 50%;">
+  <img src="https://media.licdn.com/dms/image/C5616AQEWigAZFfUZ1w/profile-displaybackgroundimage-shrink_200_800/0/1648828520435?e=2147483647&v=beta&t=AzKXY8og20pzr_nsbQz7p90zBs5c_UxzxSM6q1eQm4A alt="Web Development" width="auto" height="auto" style="border-radius: 50%;">
 </div>
 
 <h1 align="center">🚀 Ayush Anand</h1>
