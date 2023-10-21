@@ -38,5 +38,5 @@ Feel free to reach out if you'd like to collaborate on a project or just chat ab
 <p align="center">
   <a href="https://github.com/ayushanand2003"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ayushanand2003-black?style=for-the-badge&logo=github"></a>
   <a href="https://twitter.com/ayushanand_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@ayushanand_-blue?style=for-the-badge&logo=twitter"></a>
-    <a href="https://ayushanand2003.github.io/Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Website-ayushanand.me-green?style=for-the-badge&logo=firefox-browser"></a>
+    <a href="https://ayushanand2003.github.io/Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Website-AyushAnand-green?style=for-the-badge&logo=firefox-browser"></a>
 </p>
