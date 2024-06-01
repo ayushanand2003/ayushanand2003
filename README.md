@@ -28,7 +28,7 @@ Hello! 👋 I'm Ayush Anand, a Pre-Final Year Information Science Engineering st
 Here are some of the projects I've worked on:
 
 1. [**Portfolio Website**](https://ayushanand2003.github.io/Portfolio/) - A showcase of all my work till date.
-2. [**RESUME BUILDER(MERN)**]([https://github.com/ayushanand2003/project1](https://ayushanand2003.github.io/react_resume-builder/)) - An end-to-end Resume builder based on the MERN stack.
+2. [**RESUME BUILDER(MERN)**](https://ayushanand2003.github.io/react_resume-builder/) - An end-to-end Resume builder based on the MERN stack.
    <!-- Add more projects as necessary -->
 
 ## 🌐 Get in Touch
