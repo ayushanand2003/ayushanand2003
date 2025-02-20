@@ -16,7 +16,7 @@
 
 ## 🌟 About Me
 
-Hello! 👋 I'm Ayush Anand, a Pre-Final Year Information Science Engineering student pursuing B.E. I'm passionate about Full Stack Web Development and enjoy working with the MERN (MongoDB, Express.js, React, Node.js) stack. Besides, I'm proficient in C, C++, Java, and JavaScript. I'm also an enthusiastic open-source contributor and love to give back to the community. I find joy in collaborating on exciting projects and making a positive impact.
+Hello! 👋 I'm Ayush Anand, a Final Year Information Science Engineering student pursuing B.E. I'm passionate about Full Stack Web Development and enjoy working with the MERN (MongoDB, Express.js, React, Node.js) stack. Besides, I'm proficient in C, C++, Java, and JavaScript. I'm also an enthusiastic open-source contributor and love to give back to the community. I find joy in collaborating on exciting projects and making a positive impact.
 
 ## 🔧 Skills
 
@@ -27,8 +27,11 @@ Hello! 👋 I'm Ayush Anand, a Pre-Final Year Information Science Engineering st
 
 Here are some of the projects I've worked on:
 
-1. [**Portfolio Website**](https://ayushanand2003.github.io/Portfolio/) - A showcase of all my work till date.
-2. [**Resume Builder(MERN)**](https://ayushanand2003.github.io/react_resume-builder/) - An end-to-end Resume builder based on the MERN stack.
+1. [**Panoray Ventures Website**](https://www.panoray.com/)) - Website for a VC/WEB3 firm.
+2. [**Newrro Website**]((https://www.newrro.in/)) - Website for a Startup company.
+3. [**Portfolio Website**](https://ayushanand2003.github.io/Portfolio/) - A showcase of all my work till date.
+4. [**Resume Builder(MERN)**](https://ayushanand2003.github.io/react_resume-builder/) - An end-to-end Resume builder based on the MERN stack.
+ 
    <!-- Add more projects as necessary -->
 
 ## 🌐 Get in Touch
