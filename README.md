@@ -20,8 +20,20 @@ Hello! 👋 I'm Ayush Anand, a Final Year Information Science Engineering studen
 
 ## 🔧 Skills
 
-- Full Stack Web Development (MERN Stack)
-- C, C++, Java, JavaScript
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=c%2B%2B">
+  <img src="https://img.shields.io/badge/Code-C-blue?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/Code-Node.js-green?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/Code-Express.js-black?style=for-the-badge&logo=express">
+  <img src="https://img.shields.io/badge/Code-MongoDB-green?style=for-the-badge&logo=mongodb">
+  <img src="https://img.shields.io/badge/Tool-Git-red?style=for-the-badge&logo=git">
+  <img src="https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker">
+  <img src="https://img.shields.io/badge/Tool-Kubernetes-blue?style=for-the-badge&logo=kubernetes">
+  <img src="https://img.shields.io/badge/Tool-AWS-orange?style=for-the-badge&logo=amazon-aws">
+</div>
 
 ## 🚀 Projects
 
@@ -31,7 +43,7 @@ Here are some of the projects I've worked on:
 2. [**Newrro Website**](https://www.newrro.in/) - Website for a Startup company.
 3. [**Portfolio Website**](https://ayushanand2003.github.io/Portfolio/) - A showcase of all my work till date.
 4. [**Resume Builder(MERN)**](https://ayushanand2003.github.io/react_resume-builder/) - An end-to-end Resume builder based on the MERN stack.
- 
+
    <!-- Add more projects as necessary -->
 
 ## 🌐 Get in Touch
@@ -41,5 +53,40 @@ Feel free to reach out if you'd like to collaborate on a project or just chat ab
 <p align="center">
   <a href="https://github.com/ayushanand2003"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ayushanand2003-black?style=for-the-badge&logo=github"></a>
   <a href="https://twitter.com/ayushanand_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@ayushanand_-blue?style=for-the-badge&logo=twitter"></a>
-    <a href="https://ayushanand2003.github.io/Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Website-AyushAnand-green?style=for-the-badge&logo=firefox-browser"></a>
+  <a href="https://ayushanand2003.github.io/Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Website-AyushAnand-green?style=for-the-badge&logo=firefox-browser"></a>
 </p>
+
+---
+
+## 🎨 Fun & Crazy Stuff
+
+- 🛠️ **Breaking Stuff:** Love to break things and then fix them. It’s all part of the learning process!
+- 🎉 **Hackathons:** Always up for a hackathon! Code, collaborate, and create.
+- 🖌️ **Creative Coding:** Enjoy creating visual art with code. Generative art and creative coding are my jam.
+- 🌍 **Globetrotter:** Aspiring to code from every corner of the world. Digital nomad in the making!
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushanand2003&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushanand2003&theme=radical" alt="GitHub Streak">
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushanand2003&theme=radical" alt="GitHub Trophies">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushanand2003&layout=compact&theme=radical" alt="Most Used Languages">
+</div>
+
+---
+
+## 🎶 Fun Facts
+
+- 🎧 **Music Lover:** Coding with music is my therapy. From Lo-Fi beats to Metal, I love it all.
+- 🍕 **Foodie:** Pizza and code, the ultimate combo.
+- 🎮 **Gamer:** When not coding, you can find me gaming. Always up for a challenge!
+
+---
+
+<div align="center">
+  <h3>Thanks for stopping by! 😊</h3>
+</div>
