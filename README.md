@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <p>👨‍💻 Pre-Final Year Information Science Engineering Student | Full Stack Web Developer | C, C++, Java, JavaScript</p>
+  <p>👨‍💻 Final Year Information Science Engineering Student | Full Stack Web Developer | C, C++, Java, JavaScript</p>
 </div>
 
 ## 🌟 About Me
