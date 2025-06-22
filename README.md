@@ -43,6 +43,7 @@ Here are some of the projects I've worked on:
 2. [**Newrro Website**](https://www.newrro.in/) - Website for a Startup company.
 3. [**Portfolio Website**](https://ayushanand2003.github.io/Portfolio/) - A showcase of all my work till date.
 4. [**Resume Builder (MERN)**](https://ayushanand2003.github.io/react_resume-builder/) - An end-to-end Resume builder based on the MERN stack.
+5. [** Jira Dashboard **](https://ayush-aumnee.vercel.app/) - Jira Sprint Dashboard.
 
    <!-- Add more projects as necessary -->
 
